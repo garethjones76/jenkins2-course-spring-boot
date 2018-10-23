@@ -9,6 +9,7 @@
 	</parent>
 	<!-- add a comment to force a build -->
 	<!-- add a comment to force a build -->
+	<!-- add a comment to force a build -->
 	<artifactId>spring-boot-sample-atmosphere</artifactId>
 	<name>Spring Boot Atmosphere Sample</name>
 	<description>Spring Boot Atmosphere Sample gjj too</description>
